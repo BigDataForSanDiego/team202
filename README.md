@@ -9,7 +9,7 @@
 
 
 <img height="10%" width="80%" alt="overheated" src="https://github.com/BigDataForSanDiego/team202/blob/main/overheated_woman.jpeg?raw=true">
-<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/hdma2.png?raw=true"> 
+<img height="10%" width="80%" alt="hdma" src="https://www.cesarsway.com/wp-content/uploads/2021/07/summer-heat-is-here-keep-your-dog-cool-cesars-way.jpg"> 
 
 
 #### Hackathon Theme(s) (check a box(es))
