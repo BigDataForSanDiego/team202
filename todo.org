@@ -1,0 +1,43 @@
+* TASK Justify the product
+** More-than-human geography
+** Cooling centers
+*** growing importance in the coming years
+**** climate change
+**** economic collapse
+***** perception that US economic downturn on the horizon
+***** product perhaps applicable to Europe next summer if Ukrainian conflict continues 
+*** DRAFT
+Cooling centers
+* TASK Create the product
+** TODO geocode center addresses and pet policy
+** TASK heat waves
+*** TODO cite heat wave definition from national weather service
+** TASK power outage history in San Diego county
+*** TODO Obtain data
+**** Try SDGE, county office data portal
+**** How much history can we get?
+*** NEXT explore spatial dimmensions of power outages in San Diego county
+**** 'neighborhoods'
+
+** TASK transit networks
+*** TODO Get transit network data
+**** trolly 
+**** bus 
+***** low frequency stops
+* CANCELLED Plan tasks for international student/health insurance project
+CLOSED: [2022-10-09 Sun 12:32]
+** Problem statement:
+US Health care jargon is not easily deciphered by international persons, and is thus a barrier for access to care
+** Pain points
+ - time and stress from not being insured
+ - unable to address preexisting condition
+ - time delay between signing up (and paying) and actual access of care
+ - limited time window to choose a plan in a marketplace of many plans
+** Early adopters
+ - international students
+** What prevents alleviation of the problem
+ - unfamiliarity with US health insurance schema
+ - limited resources (time) to become familiar
+ - lack of administrative documents (SSN, etc.)
+ - lack of US bank accounts
+ - Language barrier
